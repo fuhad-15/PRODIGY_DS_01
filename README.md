@@ -34,9 +34,6 @@ To view the histogram, follow these steps:
 
 5. **View the Histogram:** The histogram will be saved as `age_distribution_histogram.png` in the project directory.
 
-### Example Output
-
-![Age Distribution Histogram](age_distribution_histogram.png)
 
 ### `plot_age_distribution.py` Script
 
@@ -112,9 +109,6 @@ To view the histogram, follow these steps:
 
 5. **View the Histogram:** The histogram will be saved as `age_distribution_histogram.png` in the project directory.
 
-## Example Output
-
-![Age Distribution Histogram](age_distribution_histogram.png)
 
 ## Contributing
 
